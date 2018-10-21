@@ -1,5 +1,7 @@
 # exercise_function
 # exercise_function
+
+#17523183 ivanda wahid Annafi
 #function and limit
 #Nomor 1 
 f <- function(x,y){
